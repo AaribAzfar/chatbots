@@ -1,0 +1,1058 @@
+
+
+
+Counter-Strike: Global Offensive - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+Languages
+
+Language links are at the top of the page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+ Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1Gameplay
+
+
+
+
+
+
+
+2Development and release
+
+
+
+Toggle Development and release subsection
+
+
+
+
+
+2.1Post-launch updates
+
+
+
+
+
+
+
+2.2Counter-Strike 2
+
+
+
+
+
+
+
+2.3Gambling, third-party betting and money laundering
+
+
+
+
+
+
+
+
+
+3Professional competition
+
+
+
+Toggle Professional competition subsection
+
+
+
+
+
+3.1Media coverage
+
+
+
+
+
+
+
+
+
+4Reception
+
+
+
+
+
+
+
+5References
+
+
+
+
+
+
+
+6External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Counter-Strike: Global Offensive
+
+
+
+53 languages
+
+
+
+
+AfrikaansالعربيةAsturianuБеларуская (тарашкевіца)БългарскиBrezhonegCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançaisGaeilge한국어Հայերենहिन्दीHrvatskiBahasa IndonesiaÍslenskaItalianoעבריתქართულიҚазақшаLadinLietuviųMagyarМакедонскиمصرىBahasa MelayuNederlandsNorsk bokmålOʻzbekcha / ўзбекчаPolskiPortuguêsRomânăRuna SimiРусскийSimple EnglishSlovenčinaSoomaaligaСрпски / srpskiSuomiSvenskaไทยTürkçeУкраїнськаTiếng Việt吴语中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadView sourceView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikimedia CommonsWikiquote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+2012 video game
+
+
+2012 video gameCounter-Strike: Global OffensiveDeveloper(s)ValveHidden Path EntertainmentPublisher(s)ValveComposer(s)Mike MoraskySeriesCounter-StrikeEngineSourcePlatform(s)OS XPlayStation 3WindowsXbox 360LinuxReleaseOS X, PlayStation 3, Windows, Xbox 360August 21, 2012LinuxSeptember 23, 2014Genre(s)Tactical first-person shooterMode(s)Multiplayer
+Counter-Strike: Global Offensive (CS:GO) is a 2012 multiplayer tactical first-person shooter developed by Valve and Hidden Path Entertainment. It is the fourth game in the Counter-Strike series. Developed for over two years, Global Offensive was released for OS X, PlayStation 3, Windows, and Xbox 360 in August 2012, and for Linux in 2014.
+The game pits two teams, Terrorists and Counter-Terrorists, against each other in different objective-based game modes. The most common game modes involve the Terrorists planting a bomb while Counter-Terrorists attempt to stop them, or Counter-Terrorists attempting to rescue hostages that the Terrorists have captured. There are nine official game modes, all of which have distinct characteristics specific to that mode. The game also has matchmaking support that allows players to play on dedicated Valve servers, in addition to community-hosted servers with custom maps and game modes. A battle-royale game-mode, "Danger Zone", was introduced in late 2018.
+Global Offensive received positive reviews from critics on release, who praised the game for its gameplay and faithfulness to the Counter-Strike series, though it was criticized for some early features and the differences between the console and PC versions. Since its release, it has drawn in an estimated 11 million players per month and remains one of the most played games on Valve's Steam platform. In December 2018, Valve transitioned the game to a free-to-play model, focusing on revenue from cosmetic items.
+The game has an active esports scene, continuing the history of international competitive play from previous games in the series. Teams compete in professional leagues and tournaments, with the game often cited as being among the best in esports.
+Counter-Strike 2, a major update bringing the game to the Source 2 engine, was announced on March 22, 2023, and was released on September 27, 2023. Official matchmaking for Global Offensive was shut down that day, though players were still able to connect to community servers. A legacy version of Global Offensive was later released for outdated devices and platforms unable to run Counter-Strike 2, though matchmaking was still disabled. Additionally, the game remains playable on the PlayStation 3 and Xbox 360.
+
+
+Gameplay
+Global Offensive, like prior games in the Counter-Strike series, is an objective-based, multiplayer first-person shooter. Two opposing teams, the Terrorists and the Counter-Terrorists, compete in game modes to repeatedly complete objectives, such as securing a location to plant or defuse a bomb and rescuing or capturing hostages.[1][2] At the end of each short round, players are rewarded based on individual and team performance with in-game currency to spend on other weapons or utility in subsequent rounds.[3] Winning rounds generally rewards more money than losing does, and completing map-based objectives, including killing enemies, gives additional cash bonuses.[1][4]
+
+An in-progress match on Dust II, in which the player is using an AK-47
+Global Offensive has nine official game modes: Competitive, Casual, Deathmatch, Arms Race, Demolition, Wingman, Flying Scoutsman, Retakes and Danger Zone.[5][6][7][8] Competitive mode, the primary gameplay experience,[9] pits two teams of five players against each other in a best-of-30 match.[10] When playing Competitive, players have a skill rank based on a Glicko rating system and are paired with and against other players around the same ranking.[1] The Casual and Deathmatch modes are less serious than Competitive mode and do not register friendly fire. Both are primarily used as a practice tool.[11][12] Arms Race and Demolition, both based on mods for previous iterations in the series, were added alongside eight new maps for the modes.[1] Arms Race is the Global Offensive variant of the "Gun Game" mode in other games in the series.[1] Demolition is another bomb defusal game mode, with gun upgrades only given to players who killed an enemy in the previous round.[1] Wingman is a two-on-two bomb defusal game mode taking place over sixteen rounds. Similar to Competitive, players are paired based on a dynamic skill ranking.[7] The Flying Scoutsman mode equips players with only a SSG 08 (informally called the "Scout") and a knife in a low-gravity map.[13] Retakes is a gamemode where three Terrorists will defend an already planted C4 against 4 Counter-Terrorists. Players will also be able to choose a loadout card at the beginning of each round to retake (or defend) the bomb site.[8] Danger Zone was a battle-royale mode in which up to 18 players search for weapons, equipment, and money in an effort to be the last person or team remaining.[14][15] Valve also included an offline practice mode designed to help new players learn how to use guns and grenades, called the Weapons Course.[16] Apart from the Weapons Course and Danger Zone, all other game modes can be played online or offline with bots.[6]
+There are five categories of purchasable weaponry: rifles, submachine guns, "heavy" weaponry (light machine guns and shotguns), pistols, and grenades.[17] Each gun in Global Offensive has a unique recoil pattern that can be controlled, a gameplay feature the series has long been associated with.[18][19] Global Offensive also introduced weapons and equipment not seen in previous installments, including tasers and an incendiary grenade.[20]
+In-game matchmaking is supported for all online game modes and is managed through the Steam platform.[21] The game servers run Valve Anti-Cheat to prevent cheating.[22] One form of matchmaking in Global Offensive to prevent cheating is Prime Matchmaking which hosts matches that can only be played with other users with the "Prime" status. This feature also results in more equal matches as there are fewer "smurfs" in these matches.[23] The PC version of Global Offensive also supports private dedicated servers that players may connect to through the community server menu in-game. These servers may be heavily modified and can drastically differ from the base game modes. There have been many community-made mods for the game, one of the popular ones being Kreedz Climbing, a mod that makes players complete obstacle courses requiring advanced strafing and jumping techniques.[24]
+
+Development and release
+External videos Counter-Strike: A Brief History, a YouTube video published by Valve on January 23, 2017
+Counter-Strike: Global Offensive is the sequel to the popular first-person shooter Counter-Strike: Source, developed by Valve. Global Offensive's development began when Hidden Path Entertainment attempted to port Counter-Strike: Source onto video game consoles.[1][25] During its development, Valve saw the opportunity to turn the port into a full game and expand on the predecessor's gameplay. Global Offensive began development in March 2010, and was revealed to the public on August 12, 2011.[26] The closed beta started on November 30, 2011, and was initially restricted to around ten thousand people who received a key at events intended to showcase Global Offensive. After issues with client and server stability were addressed, the beta was opened up to progressively more people,[27] and at E3 2012, Valve announced that Global Offensive would be released on August 21, 2012, with the open beta starting roughly a month before that.[27] Before the public beta, Valve invited professional Counter-Strike players to play-test the game and give feedback.[28]
+There were plans for cross-platform multiplayer play between Windows, OS X, Linux, Xbox 360, and PlayStation 3 players, but this was ultimately dropped so that the PC and Mac versions could be actively updated.[29] On August 21, 2012, the game was publicly released on all platforms except Linux,[30] which would not be released until September 23, 2014.[31]
+
+Post-launch updates
+Since the initial release of Global Offensive, Valve has continued to update the game by introducing new maps and weapons, game modes, and weapon balancing changes.[32] One of the first major additions to the game post-release was the "Arms Deal" update. Released on August 13, 2013, the update added cosmetic weapon finishes, or skins, to the game. These items are obtainable by a loot box mechanism; players would receive cases that could be unlocked using virtual keys, purchased through in-game microtransactions.[33][25] Global Offensive has Steam Workshop support, allowing users to upload user-created content, such as maps, weapon skins, and custom game-modes. Some popular user-created skins are added to the game and are obtainable from unboxing them in cases.[34] The creators of the skins are paid when their item is added to a case.[35] These skins helped form a virtual economy in Global Offensive, leading to the creation of gambling, betting, and trading sites.[36] The addition of skins and the associated virtual economy launched Global Offensive's player count past the other games in the Counter-Strike series and is one of the most important updates in the game's history.[25][37]
+Events called "Operations" are held occasionally and can be accessed through purchasable expansion packs in the form of "operation passes." These passes grant access to operation objectives which are spread over different game modes, such as Arms Race and Deathmatch,[38] or in operation-specific game modes, first seen in Operation Hydra, released in May 2017.[39] Completing these challenges rewards the player with XP and the ability to upgrade the operation "coin." The maps in the operations are community made, meaning some of the revenue made goes towards the map designers.[38][40]
+An update in October 2014 added "music kits", which replace the default in-game music with music from soundtrack artists commissioned by Valve. If a player with a music kit equipped becomes the round's most valuable player, their music will play for others at the end of the round. There is a feature that allows kits to be borrowed, and kits can be sold and exchanged through Steam's Community Market.[41]
+In 2016, the game saw two remakes of original Counter-Strike maps, as well as the introduction of Prime matchmaking and additional items. As a part of the Operation Wildfire promotion, Nuke was remade and re-released in February with the primary goals being to balance the map and make it more aesthetically pleasing.[42] In April, Prime matchmaking was added to the game. To partake in this mode, the user had to have a verified phone number connected to their account. It was introduced in an attempt to prevent legitimate players from playing with cheaters or high-skilled players playing on alternative, lower ranked accounts, a practice colloquially known as "smurfing".[23] Inferno, another original map, was re-released in October. Valve said they had three reasons behind the remake: "to improve visibility; to make it easier to move around in groups; and to tune it with player feedback."[43] Also in October, consumable items called graffiti were added to the game. These items replaced a feature present in the previous iterations of the series called sprays. Previously, players could customize their sprays. Graffiti ideas can be uploaded to the Steam Workshop in the similar manner as gun skins and players can buy and trade the existing graffiti in game.[44] One month later, glove skins were added.[45]
+In September 2017, Valve Company worked with the publisher Perfect World to release Global Offensive in mainland China. Chinese citizens, with their identification verified, can receive the game for free and earn Prime matchmaking status immediately.[46] The game is played through Perfect World's launcher and contains numerous exclusive changes to the game, including the censorship of skulls and other symbols.[47][48] Some other changes were in the cosmetics in certain maps, for example, the hammer and sickle on Cache and Train were removed.[49] In preparation for the release, multiple cities in China celebrated and heavily promoted its upcoming release.[47][48] Users who played the game during its launch month received free promotional cosmetics.[49][50] In compliance with Chinese law, Valve also had to disclose its loot box gambling odds.[51]
+In November 2017, an update to the competitive matchmaking was announced. Called the "Trust Factor", it meant a player's "Trust Factor" would be calculated through both in-game and Steam-wide actions. Factors such as playtime on Global Offensive, times a user has been reported for cheating, playtime on other Steam games, and other behaviors hidden by Valve are taken into consideration when a user's "Trust Factor" is developed. This was done in an attempt to let the community bond back together in matchmaking, as Prime matchmaking separated Prime and non-Prime players from each other. Valve will not let users view their "Trust Factor" or reveal all of the factors deciding one's "Trust".[52][53][54] In August 2018, an offline version of the game was released that allows the players to play offline with bots.[55][56]
+An update released on December 6, 2018, made the game fully free to play. Users who had purchased the game prior to this update were automatically updated to "Prime" status and given modes that can drop cosmetic items. In addition, the new version introduced a battle royale mode called "Danger Zone".[57]
+In November 2019, Operation Shattered Web was released. It operated similarly to the previous operations and introduced new character models and a battle pass system.[58]
+In April 2020, source code for 2018 versions of Counter-Strike: Global Offensive and Team Fortress 2 were leaked on the Internet. This created fears that malicious users would take advantage of the code to develop potential remote code execution software and attack game servers or players' own computers. Several ongoing fan projects temporarily halted development in wake of this news until better confirmation of the impact of the leak could be determined.[59] Valve confirmed the legitimacy of the code leaks, but stated they do not believe it impacts servers and clients running the latest official builds of either game.[60]
+In December 2020, Operation Broken Fang was released accompanied with a cinematic trailer, the first official Counter-Strike: Global Offensive cinematic trailer in eight years since the official launch trailer.[61]
+In May 2021, a subscription service called "CS:GO 360 Stats" was released for US$0.99 per month. It includes access to detailed match stats from official Competitive, Premier, and Wingman game modes and the Round Win Chance report introduced in Operation Broken Fang.[62] The update was met with a mixed response from players, with many pointing to free third-party websites that provided similar stats.[63]
+In September 2021, Operation Riptide was released, adding gameplay and matchmaking changes, new maps, and new cosmetic items.[64]
+In January 2022, an update adding Flick Stick support for gyroscopic game controllers was released. Flick Stick is a control scheme which lets the player quickly "flick" their view using the right analog stick, while delegating all fine aiming to gyro movements.[65]
+
+Counter-Strike 2
+Main article: Counter-Strike 2
+In March 2023, Valve announced Counter-Strike 2 as an update to Global Offensive. Following a closed beta that began on March 22, 2023,[66] the game was released on September 27, 2023.
+Counter-Strike 2 features major technical improvements over Global Offensive.[67] The Counter-Strike 2 update moved the game from the Source game engine to Source 2, introduced "responsive smokes" that could be interacted with,[68] and redesigned versions of classic series maps. Various features from Global Offensive were removed, such as the gamemodes Arms Race and Danger Zone,[69] and all 167 in-game achievements were removed.[70] Alongside this, only ten maps were included at launch.[71]
+Counter-Strike 2 replaced Global Offensive in Steam, but it remains possible to play Global Offensive on community servers by selecting an older build version in a Steam configuration panel.[72][73] Additionally, the Xbox 360 console release was not updated, and Global Offensive remains playable there.[74] Counter-Strike 2 received a mixed response from players, primarily as a result of removed content.[69][75]
+
+Gambling, third-party betting and money laundering
+Main article: Skin gambling
+Following the introduction of the Arms Deal update in August 2013, skins formed a virtual economy due to their rarity and other high-value factors that influenced their desirability. Due to this, the creation of a number of skin trading sites enabled by the Steamworks API were created. Some of these sites began to offer gambling functionality, allowing users to bet on the outcome of professional matches with skins. In June and July 2016, two formal lawsuits were filed against these gambling sites and Valve, stating that these encourage underage gambling and undisclosed promotion by some streamers. Valve in turn began to take steps to prevent these sites from using Steamworks for gambling purposes, and several of these sites ceased operating as a result.[33] In July 2018, Valve disabled the opening of containers in Belgium and the Netherlands after their loot boxes appeared to violate Dutch and Belgian gambling laws.[76]
+In 2019, Valve made changes to Global Offensive's loot box mechanics due to a realization that "nearly all" of the trading on loot box keys was done by criminal organizations as a method of money laundering. Valve released a statement, saying, “In the past, most key trades we observed were between legitimate customers. However, worldwide fraud networks have recently shifted to using CS:GO keys to liquidate their gains. At this point, nearly all key purchases that end up being traded or sold on the marketplace are believed to be fraud-sourced. As a result, we have decided that newly purchased keys will not be tradeable or marketable.”[77][78]
+
+Professional competition
+Counter-Strike: Global Offensive Major ChampionshipsMost recent season or competition:Blast Paris Major 2023SportEsportsFounded2013No. of teams16 teams (2013–2017)24 teams (2018–present)Venue(s)VariousContinentsInternationalMost recentchampion(s)Team Vitality (1 title)Most titlesAstralis (4 titles)TV partner(s)Twitch, Steam.tv, YouTube, GOTVSponsor(s)Valve
+Luminosity Gaming competes against Natus Vincere at the MLG Columbus 2016 major.
+Main articles: Counter-Strike in esports and Counter-Strike: Global Offensive Major Championships
+Global Offensive has one of the most popular esport scenes in the world.[79][80][81][82] The Global Offensive professional scene consists of leagues and tournaments hosted by third-party organizations, and Valve-sponsored tournaments known as Major Championships. Majors are considered the most prestigious tournaments in Counter-Strike circuit and have among the largest prize pools; originally announced at US$250,000, the prize pools for Majors have risen to US$1,000,000 since MLG Columbus 2016.[83] Astralis is the most successful Global Offensive team of all time, with the core members of that team winning four Majors together.
+In 2014, the "first large match fixing scandal"[84] in the Global Offensive community took place, where team iBuyPower purposefully lost a match against NetCodeGuides.com. The seven professional players that were involved in the scandal were permanently banned from all Majors by Valve, although some other organizers eventually allowed the players to compete at their tournaments.[85][86][87]
+In 2020, the Counter-Strike coaching bug scandal erupted, where team coaches used variants of a bug to see parts of the map they normally would not have access to and gather information about the enemy team. As of May 5, 2022, the Esports Integrity Commission announced that almost 100 coaches would be sanctioned as they neared the completion of the final investigation.
+Esports organizations Cloud9 and Dignitas, among others, announced plans in February 2020 to launch Flashpoint, a franchise-based league for Counter-Strike, countering concerns over the state of the current promotion/relegation leagues. The league was to be owned by the teams rather than a single organization, similar to the Overwatch League.[88]
+
+Media coverage
+As the game and the scene grew in popularity, companies, including WME/IMG and Turner Broadcasting, began to televise Global Offensive professional games, with the first being ELEAGUE Major 2017, held in the Fox Theatre and broadcast on US cable television network TBS in 2016.[89] On August 22, 2018, Turner announced their further programming of Global Offensive with ELEAGUE’s Esports 101: CSGO and ELEAGUE CS:GO Premier 2018's docu-series on the TBS network.[90]
+
+Reception
+ReceptionAggregate scoreAggregatorScoreMetacriticPC: 83/100[91]PS3: 80/100[92]X360: 79/100[93]Review scoresPublicationScoreDestructoidPC: 9.5/10[1]EurogamerPC: 9/10[94]GameSpotPC/PS3/X360: 8.5/10[95]GameSpyPC: [96]IGNPC: 8/10[20]PC Gamer (US)PC: 84%[97]
+Counter-Strike: Global Offensive received generally positive reception from critics, according to review aggregator Metacritic.[91][93][92] Since the game's release, Global Offensive has remained one of the most played and highest-grossing games on Steam.[98][99][100][101] The game has remained very popular since release, reaching a new record of 1.4 million concurrent players in March 2023, surpassing the game's previous record of 1.3 million in April 2020 during the COVID-19 pandemic.[102]
+Reviewers praised Global Offensive's faithfulness to the previous game, Counter-Strike: Source, with Allistair Pinsof of Destructoid rating the game very highly and saying that Global Offensive is a "polished and better looking" version of the game.[1] GameSpot writer Eric Neigher said in their review that this game stays true to its predecessors by adding much content, but tweaking small amounts and retaining their best features.[9] The reviewers at gamesTM wrote in their review that the game stood "as a glowing reminder that quality game design is rewarded in longevity and variety."[103] They also continued onto congratulate Valve that they had not only updated the popular game, but "had completely outclassed its contemporaries."[103] Martin Gaston of VideoGamer.com wrote that although he was too old to truly enjoy the game, he believed that it was a "fine installment of one of the best games ever made," and that some people will experience "what will become the definitive moments of their gaming lives."[19] Xav de Matos for Engadget wrote that for the price, "Global Offensive is a great extension to that legacy."[11] Mitch Dyer from IGN said that "Global Offensive is definitely a Counter-Strike sequel – it looks and feels familiar, with minor tweaks here and there to help balance old issues and surprise longtime players."[20]
+Some of the features in the early releases of the game were criticized by reviewers. GameSpy's Mike Sharkey did not believe that the new content added was good or that there was much of it, and said that the Elo rating system seemed ineffective with many players of various skill levels all playing at once throughout the early days of release.[96] Evan Lahti from PC Gamer noted that the majority of new official maps in Global Offensive were only for Arms Race or Demolition game modes, while Classic maps were only given "smart adjustments" to minor details.[97] Pinsof thought that in its release state, it would not be the final version of the game.[1] Paul Goodman said that for long-time fans of the series, Global Offensive will start to show the game's age, expressing that he "couldn't help but feel that I had been there and done that a dozen times before."[104]
+Although reviewers liked the console versions of the game, they believed there were obvious differences between the PC and console versions. Neigher believed that due to playing with thumbsticks and shoulder buttons "you definitely won't be getting the ultimate CS:GO experience."[9] Ron Vorstermans for Gamer.nl said that the PC version is there to play at a higher competitive level, though he went on to say that the console versions are not inferior because of the PC's superiority for competition.[105] Dyer wrote that the PlayStation 3 version was at an advantage to the Xbox version because of the ability to connect a keyboard and mouse to the system. He continued on to say that the user-interface on both of the consoles was as good as the PC one.[20] Mark Langshaw of Digital Spy opined that although the game has support for the PlayStation Move, using it only makes the "already unforgiving game all the more challenging."[106]
+The game was nominated for "Best Spectator Game" in IGN's Best of 2017 Awards[107] and for "eSports Game of the Year" at the 2017, 2018, and 2019 Golden Joystick Awards.[108][109][110][111] The game won the fan-voted "eSports Game of the Year" award at The Game Awards 2015,[112] and has been nominated for "Best Esports Game" at the 2017, 2019, 2020, 2021, and 2022 The Game Awards,[113][114][115][116][117] and for "Game, eSports" at the 17th Annual National Academy of Video Game Trade Reviewers Awards.[118] In 2018, the game was nominated for "Fan Favorite eSports Game" and "Fan Favorite eSports League Format" for the Majors at the Gamers' Choice Awards,[119] and for "eSports Title of the Year" at the Australian Games Awards.[120]
+
+
+References
+
+
+^ a b c d e f g h i j Pinsof, Allistair (August 24, 2012). "Review: Counter-Strike: Global Offensive". Destructoid. Archived from the original on January 1, 2017. Retrieved April 7, 2014.
+
+^ Owen, Phil (August 31, 2012). "GAME BYTES: 'Counter-Strike' Lackluster". The Tuscaloosa News. New Media Investment Group. Archived from the original on August 16, 2017.
+
+^ Heath, Jerome; Villanueva, Jamie (May 4, 2020). "CS:GO Economy Guide: How it Works, Bonuses, the Meta, and More". Dot Esports. Retrieved March 8, 2021.
+
+^ "Money system in CS:GO explained". Natus Vincere. Archived from the original on January 2, 2017. Retrieved January 2, 2017.
+
+^ "About CS:GO". Counter-Strike Official Blog. Retrieved March 7, 2021.
+
+^ a b Senior, Tom (August 21, 2012). "Counter-Strike: Global Offensive patch adds Weapons Course and Zombie Mod support". PC Gamer. Future plc. Archived from the original on January 6, 2017. Retrieved January 6, 2017.
+
+^ a b Villanueva, Jamie (November 15, 2017). "Several maps and game modes permanently added to CS:GO as Operation Hydra ends". Dot eSports. The Daily Dot. Archived from the original on February 16, 2019. Retrieved November 16, 2017.
+
+^ a b "CS:GO - Operation Broken Fang". counter-strike.net. Retrieved September 1, 2021.
+
+^ a b c Neigher, Eric (August 31, 2012). "Counter-Strike: Global Offensive Review". GameSpot. CBS Interactive. Archived from the original on April 9, 2017. Retrieved April 9, 2017.
+
+^ Lahti, Evan (January 19, 2015). "CS:GO competitive guide: your first match". PC Gamer. Archived from the original on January 6, 2017. Retrieved January 6, 2017.
+
+^ a b de Matos, Xav (August 28, 2012). "Counter-Strike Global Offensive review: Come at the king, you best not miss". Engadget. AOL Inc. Archived from the original on June 22, 2017. Retrieved January 6, 2017.
+
+^ Stenhouse, Henry (April 12, 2017). "How to find the perfect CS:GO crosshair for you". PC Gamer. Archived from the original on June 22, 2017. Retrieved June 22, 2017.
+
+^ Villanueva, Jamie (May 26, 2017). "The Flying Scoutsman: How to play the CS:GO war game". Dot Esports. Retrieved March 8, 2021.
+
+^ Lahti, Evan (December 6, 2018). "CS:GO goes Battle Royale and free to play". PC Gamer. Archived from the original on December 12, 2018. Retrieved March 2, 2019.
+
+^ Liao, Shannon (December 6, 2018). "Counter-Strike: GO adds new battle royale mode and goes free-to-play". The Verge.
+
+^ Redler, Jannes (December 21, 2015). "CSGO Game Modes –– Information". Dot Esports.
+
+^ Villanueva, Jamie (September 6, 2017). "A guide to CS:GO's weapons". Dot eSports. The Daily Dot. Archived from the original on February 24, 2018. Retrieved October 13, 2017.
+
+^ Heath, Jerome (January 26, 2021). "CS:GO Spray Pattern and Recoil Compensation Guide For Every Weapon". Dot Esports. Retrieved March 7, 2021.
+
+^ a b Gaston, Martin (August 23, 2017). "Counter-Strike: Global Offensive Review". VideoGamer.com. Archived from the original on April 12, 2017. Retrieved April 12, 2017.
+
+^ a b c d Dyer, Mitch (August 27, 2012). "Counter-Strike: Global Offensive Review". IGN. Ziff Davis. Retrieved August 28, 2012.
+
+^ Makuch, Eddie. "Counter-Strike: Global Offensive firing up early 2012". GameSpot. CBS Interactive Inc. Archived from the original on January 6, 2017. Retrieved June 12, 2012.
+
+^ Chalk, Andy (September 14, 2016). "More than 11,000 CS:GO and Dota 2 cheaters ate the banhammer today". PC Gamer. Future plc. Archived from the original on January 2, 2017. Retrieved January 2, 2017.
+
+^ a b Morrison, Angus (April 22, 2016). "Valve considers 'Prime' matchmaking for CS:GO". PC Gamer. Future plc. Archived from the original on January 1, 2017. Retrieved January 1, 2017.
+
+^ Salomonsson, Fredrik (January 19, 2016). "Discover Counter-Strike: Global Offensive's climbing scene". PC Gamer. Future plc. Archived from the original on June 22, 2017. Retrieved February 3, 2016.
+
+^ a b c Lahti, Evan (September 17, 2015). "How $400 virtual knives saved Counter-Strike". PC Gamer. Future plc. Archived from the original on January 11, 2017. Retrieved January 11, 2016.
+
+^ Alec Meer (August 12, 2011). "Revealed: Counter-Strike: Global Offensive". Rock Paper Shotgun. Archived from the original on June 22, 2017. Retrieved November 8, 2011.
+
+^ a b Senior, Tom (October 31, 2011). "Counter-Strike: Global Offensive beta delayed". PC Gamer. Future plc. Archived from the original on June 22, 2017. Retrieved June 22, 2017.
+
+^ Alec Meer (August 15, 2011). "Counter-Strike: GO Explained Properly". Rock Paper Shotgun. Retrieved November 10, 2011.
+
+^ Hinkle, David (March 5, 2012). "Counter-Strike: Global Offensive loses cross-play". Joystiq. Archived from the original on June 22, 2017. Retrieved June 22, 2017.
+
+^ Wesley Yin-Poole (June 4, 2012). "Counter-Strike: Global Offensive release date announced". Eurogamer. Archived from the original on April 13, 2017. Retrieved August 21, 2012.
+
+^ Stahi, Silviu (September 23, 2014). "Counter-Strike: Global Offensive Officially Lands on Linux, Skips Beta". Softpedia. Archived from the original on April 13, 2017. Retrieved April 13, 2017.
+
+^ Lahti, Evan (November 18, 2019). "CS:GO update log: Every recent CS:GO patch". PC Gamer. Retrieved March 8, 2021.
+
+^ a b Sarkar, Samit (July 11, 2016). "How do Counter-Strike: Global Offensive skins work?". Polygon. Vox Media. Archived from the original on June 22, 2017. Retrieved July 11, 2016.
+
+^ Cropley, Steven (January 19, 2017). "5 Five-SeveN CSGO Skins We Need Now". WWG. Comicbook.com. Archived from the original on April 13, 2017.
+
+^ O'Connor, Sarah (January 30, 2015). "Over $57 Million Paid Out To Steam Workshop Creators". Rock, Paper, Shotgun. Archived from the original on April 13, 2017. Retrieved April 13, 2017.
+
+^ Richardson, Emily (August 14, 2015). "How Counter-Strike: Global Offensive's Economy Works". Rock, Paper, Shotgun. Archived from the original on September 30, 2017. Retrieved September 30, 2017.
+
+^ Assael, Shaun (January 23, 2017). "Skin in the Game". ESPN. Archived from the original on January 22, 2017. Retrieved January 23, 2017.
+
+^ a b Sarkar, Samit (July 2, 2014). "Counter-Strike: Global Offensive gets missions and new rewards with Operation Breakout". Polygon. Vox Media. Archived from the original on July 6, 2014. Retrieved April 15, 2017.
+
+^ O'Connor, James (May 24, 2017). "Counter-Strike GO: Operation Hydra will change things up". VG247. Archived from the original on May 24, 2017. Retrieved May 24, 2017.
+
+^ Morrison, Angus (February 18, 2016). "Operation Wildfire comes to CS:GO". PC Gamer. Future plc. Archived from the original on April 15, 2017. Retrieved April 15, 2017.
+
+^ Dobra, Andrei (October 11, 2014). "New CS:GO Update Adds Music Kits with Custom Songs to the Game". Softpedia. Archived from the original on April 15, 2017. Retrieved April 15, 2017.
+
+^ "Counter-Strike: GO brings back Nuke as part of Operation Wildfire". Polygon. February 18, 2016.
+
+^ "Counter-Strike: Global Offensive's Inferno Revamped". Rock Paper Shotgun. October 14, 2016.
+
+^ McWhertor, Michael (October 7, 2016). "Valve brings sprays back to Counter-Strike — and monetizes them". Polygon. Vox Media. Archived from the original on September 17, 2017. Retrieved September 17, 2017.
+
+^ Prescott, Shaun (November 29, 2016). "Counter-Strike: Global Offensive now has decorative gloves". PC Gamer. Future plc. Archived from the original on January 6, 2017.
+
+^ Scott-Jones, Richard (August 18, 2017). "CS:GO is free in China if you verify your identity". PCGamesN. Archived from the original on February 1, 2018. Retrieved January 1, 2018.
+
+^ a b Beard, Harrison. "China Prepares for CS:GO Launch With Hardcore Marketing". Dexerto. Archived from the original on February 1, 2018. Retrieved January 1, 2018.
+
+^ a b Bailey, Dustin (September 14, 2017). "Cities across China light up in honor of upcoming CS:GO launch". PCGamesN. Archived from the original on February 1, 2018. Retrieved January 1, 2018.
+
+^ a b Villanueva, Jamie (September 15, 2017). "CS:GO officially released in China through Perfect World". Dot Esports. Archived from the original on February 1, 2018. Retrieved January 1, 2018.
+
+^ Tucker, Jake (September 15, 2017). "Counter-Strike launches in China as Valve partners up with Perfect World, F2P for verified". MCVUK. Archived from the original on February 1, 2018. Retrieved January 1, 2018.
+
+^ Scott-Jones, Richard (September 11, 2017). "Here are CS:GO's loot box odds". PCGamesN. Archived from the original on February 1, 2018. Retrieved January 1, 2018.
+
+^ Chalk, Andy (November 15, 2017). "Valve's new CS:GO matchmaking system considers your overall behavior on Steam". PC Gamer. Archived from the original on February 1, 2018. Retrieved November 18, 2017.
+
+^ Barnett, Brian (November 15, 2017). "New Counter-Strike Matchmaking System Analyses Your Behavior in Other Steam Games". IGN. Retrieved November 18, 2017.
+
+^ Dale, Laura (November 15, 2017). "Counter-Strike: Global Offensive Now Uses All Steam User Data When Matchmaking". Kotaku UK. Archived from the original on February 1, 2018. Retrieved November 18, 2017.
+
+^ Ghoshal, Abhimanyu (August 31, 2018). "Counter-Strike: Global Offensive now has a free version you can play offline". The Next Web. Retrieved August 31, 2018.
+
+^ Stubbs, Mike. "Valve Announces Limited Free To Play Version Of 'CS:GO'". Forbes. Retrieved August 31, 2018.
+
+^ Valentine, Rebekah (December 6, 2018). "Counter-Strike: Global Offensive goes free-to-play". GamesIndustry.biz. Retrieved December 6, 2018.
+
+^ "Operation Shattered Web". blog.counter-strike.net. November 18, 2019. Retrieved November 18, 2019.
+
+^ Bailey, Dustin (April 22, 2020). "Team Fortress 2 and CS:GO source code leak raises security fears". PCGamesN. Retrieved April 22, 2020.
+
+^ Olsen, Mathew (April 22, 2020). "Valve Says Team Fortress 2 and Counter-Strike Source Code Leak Is No Cause for Alarm". USGamer. Archived from the original on April 29, 2020. Retrieved April 22, 2020.
+
+^ Macgregor, Jody (December 4, 2020). "CS:GO Operation Broken Fang is live now". PC Gamer. Retrieved March 14, 2021.
+
+^ "CS:GO gets paid stat tracking". PCGamesN. May 4, 2021. Retrieved September 20, 2021.
+
+^ "CS: GO Fans Aren't Happy About New Paid Stat Tracking System". Game Rant. May 5, 2021. Retrieved September 20, 2021.
+
+^ "CS:GO - Operation Riptide". Valve. Retrieved October 12, 2021.
+
+^ "Valve adds Flick Stick to CS:GO". dotesports.com. January 18, 2022. Retrieved February 24, 2022.
+
+^ "Counter-Strike 2 Limited Test FAQ". Retrieved March 22, 2023.
+
+^ Stedman, Alex (March 22, 2023). "Counter-Strike 2 Revealed Out of Nowhere, Release Window Confirmed". IGN. Retrieved March 22, 2023.
+
+^ Chowdhury, Amaar (March 23, 2023). "Counter Strike 2 smoke changes explained". videogamer.com. Retrieved October 5, 2023.
+
+^ a b Zollner, Amelia (September 29, 2023). "Counter-Strike 2 Players Express Disappointment as Many of CS:GO's Key Features Disappear". IGN. Retrieved October 6, 2023.
+
+^ Troughton, James (September 28, 2023). "Counter-Strike 2 Players Angry At CS:GO Achievements Being Removed". TheGamer. Retrieved October 6, 2023.
+
+^ Jake Green (October 2, 2023). "Counter-Strike 2 maps list - every map available at launch". TechRadar. Retrieved October 6, 2023.
+
+^ Harry (October 3, 2023). "Yes, You Can Still Play CSGO after CS2: Here Is How". Common Sense Gamer. Retrieved October 5, 2023.
+
+^ Editor, Edwin Evans-Thirlwell News; Evans-Thirlwell, Edwin (October 10, 2023). "Valve bin off Counter-Strike 2's Mac support, offering a CS:GO "legacy version" in return". Rock, Paper, Shotgun. Retrieved October 10, 2023. {{cite news}}: |last1= has generic name (help)
+
+^ Chowdhury, Amaar (September 28, 2023). "CS:GO fans now frantically dusting off their Xbox 360s as servers are still online". VideoGamer.com. Retrieved September 28, 2023.
+
+^ Writer, Connor Makar Staff (September 29, 2023). "Counter Strike 2 players mourn lost content, as CS:GO disappears from Steam libraries". VG247. Retrieved October 6, 2023.
+
+^ Jones, Ali (July 13, 2018). "Valve disables CS:GO loot boxes in Belgium and the Netherlands". PCGamesN. Archived from the original on September 7, 2018. Retrieved September 19, 2018.
+
+^ "Counter-Strike trading found to be 'nearly all' money laundering". the Guardian. October 30, 2019. Retrieved December 28, 2021.
+
+^ "Valve shuts down money laundering via CS:GO game". BBC News. November 1, 2019. Retrieved December 28, 2021.
+
+^ Porter, Matt (October 5, 2018). "What are the top 10 most watched esports in 2018?". Dexerto. Retrieved March 5, 2021.
+
+^ Esanu, Andreea. "Dota 2 and CS:GO top esports games in audience engagement on Twitch". VPEsports. Retrieved March 5, 2021.[permanent dead link]
+
+^ McCauley, Kim (March 20, 2020). "A beginner's guide to following esports". SBNation.com. Retrieved March 5, 2021.
+
+^ Webster, Andrew (April 27, 2020). "Pro gaming leagues are seeing a huge spike in viewership". The Verge. Retrieved March 5, 2021.
+
+^ Lahti, Evan (February 23, 2016). "Valve puts in $1 million for all future major CS:GO tournaments". PC Gamer. Future plc. Archived from the original on May 9, 2017. Retrieved May 9, 2017.
+
+^ Cooke, Sam (August 18, 2016). "Phil Kornychev – Forget the TV show, this is the real Skins drama". Esports Insider. Retrieved August 22, 2017.
+
+^ "ex-iBP banned from Valve majors". HLTV.org. Retrieved September 29, 2021.
+
+^ Villanueva, Jamie (July 24, 2017). "Swag, DaZeD, and azk to join forces following ESL unban". Dot Esports. Archived from the original on August 21, 2017. Retrieved August 22, 2017.
+
+^ Wynne, Jared (July 2017). "ESL drops bans on ex-iBP and Epsilon players". Dot Esports. Archived from the original on August 22, 2017. Retrieved August 22, 2017.
+
+^ Taylor, Haydn (February 6, 2020). "Major esport organisations launch new team-owned CS:GO league". GamesIndustry.biz. Retrieved February 6, 2020.
+
+^ Spangler, Todd (September 23, 2015). "Turner, WME/IMG Form E-Sports League, With TBS to Air Live Events". Variety. Penske Media Corporation. Archived from the original on June 22, 2017. Retrieved November 13, 2015.
+
+^ Frederick, Brittany (August 22, 2018). "ELEAGUE announces CSGO Premier TV plans, Esports 101 special". Fansided. Archived from the original on August 23, 2018. Retrieved September 19, 2018.
+
+^ a b "Counter-Strike: Global Offensive for PC Reviews". Metacritic. Archived from the original on April 10, 2017. Retrieved August 25, 2012.
+
+^ a b "Counter-Strike: Global Offensive for PlayStation 3 Reviews". Metacritic. Archived from the original on April 10, 2017. Retrieved September 16, 2012.
+
+^ a b "Counter-Strike: Global Offensive for Xbox 360 Reviews". Metacritic. Archived from the original on April 10, 2017. Retrieved September 16, 2012.
+
+^ Bramwell, Tom (August 22, 2012). "Counter-Strike: Global Offensive Review". Eurogamer. Retrieved August 25, 2012.
+
+^ "Counter-Strike: Global Offensive reviews (MAC, PS3, X360, PC, LNX)". GameSpot. August 31, 2012. Retrieved May 19, 2015.
+
+^ a b Sharkey, Mike (August 23, 2012). "Counter-Strike: Global Offensive Review". GameSpy. Retrieved August 25, 2012.
+
+^ a b Lahti, Evan (August 24, 2012). "Counter-Strike: Global Offensive review". PC Gamer. Retrieved August 25, 2012.
+
+^ Walker, Patrick (October 16, 2015). "How Counter-Strike: Global Offensive is still dominating Steam". Archived from the original on August 18, 2017. Retrieved August 18, 2017.
+
+^ Lahti, Evan (March 25, 2014). "Valve explains how CS:GO became the second most-played game on Steam". PC Gamer. Archived from the original on August 18, 2017. Retrieved August 18, 2017.
+
+^ Bolding, Jonathan (December 26, 2020). "Here are the top-selling and most-played Steam games of 2020". PC Gamer. Retrieved March 5, 2021.
+
+^ Bankhurst, Adam (December 27, 2020). "Steam Reveals the Top-Selling and Most-Played Games of 2020 - IGN". IGN. Retrieved March 5, 2021.
+
+^ Crew, The (March 12, 2023). "CS:GO Hits 1.4 Million Concurrent Players Amid Rumors of Source 2 Update". TalkEsport. Retrieved March 12, 2023.
+
+^ a b "Counter-Strike: Global Offensive review". GamesTM. Archived from the original on January 1, 2017. Retrieved January 1, 2017.
+
+^ Goodman, Paul (September 8, 2012). "Counter-Strike: Global Offensive Review". The Escapist. Defy Media. Archived from the original on April 12, 2017. Retrieved April 12, 2017.
+
+^ Vorstermans, Ron (September 6, 2012). "Counter-Strike: GO (consoleversie) – Welkome aanvulling". Gamer.nl (in Dutch). Archived from the original on April 9, 2017. Retrieved April 9, 2017.
+
+^ Langshaw, Mark (August 27, 2012). "Counter-Strike Global Offensive review (PSN): Striking the right chord". Digital Spy. Hearst Communications. Archived from the original on April 9, 2017. Retrieved April 9, 2017.
+
+^ "Best of 2017 Awards: Best Spectator Game". IGN. Ziff Davis. December 20, 2017. Retrieved February 16, 2018.
+
+^ Gaito, Eri (November 13, 2017). "Golden Joystick Awards 2017 Nominees". Best in Slot. Archived from the original on January 10, 2018. Retrieved February 16, 2018.
+
+^ Hoggins, Tom (September 24, 2018). "Golden Joysticks 2018 nominees announced, voting open now". The Daily Telegraph. Archived from the original on January 11, 2022. Retrieved October 7, 2018.
+
+^ Sheridan, Connor (November 16, 2018). "Golden Joystick Awards 2018 winners: God of War wins big but Fortnite gets Victory Royale". GamesRadar+. Retrieved November 18, 2018.
+
+^ Tailby, Stephen (September 20, 2019). "Days Gone Rides Off with Three Nominations in This Year's Golden Joystick Awards". Push Square. Retrieved September 21, 2019.
+
+^ Sarkar, Samit (December 3, 2015). "Here are the winners of The Game Awards 2015". Polygon. Vox Media. Archived from the original on June 22, 2017. Retrieved June 22, 2017.
+
+^ Makuch, Eddie (December 8, 2017). "The Game Awards 2017 Winners Headlined By Zelda: Breath Of The Wild's Game Of The Year". GameSpot. Retrieved February 17, 2018.
+
+^ Winslow, Jeremy (November 19, 2019). "The Game Awards 2019 Nominees Full List". GameSpot. Retrieved November 20, 2019.
+
+^ Tassi, Paul (December 11, 2020). "Here's The Game Awards 2020 Winners List With A Near-Total 'Last Of Us' Sweep". Forbes.
+
+^ Ankers-Range, Adele (November 16, 2021). "The Game Awards Nominations Announced". IGN. Retrieved March 12, 2023.
+
+^ Good, Owen S. (November 15, 2022). "Elden Ring wins game of the year at The Game Awards 2022". Polygon. Retrieved March 12, 2023.
+
+^ "Winner List for 2017: Mario, Horizon". National Academy of Video Game Trade Reviewers. March 13, 2018. Retrieved November 20, 2019.
+
+^ Glyer, Mike (November 19, 2018). "2018 Gamers' Choice Awards Nominees". File 770. Retrieved January 15, 2019.
+
+^ "Your 2018 Winners". Australian Games Awards. December 19, 2018. Retrieved January 15, 2019.
+
+
+External links
+
+
+
+Wikimedia Commons has media related to Counter-Strike: Global Offensive.
+
+
+
+
+Wikiquote has quotations related to Counter-Strike: Global Offensive.
+
+Official website 
+Global Offensive at ValveSoftware.com
+vteCounter-Strike seriesMain series
+Counter-Strike
+Condition Zero
+Source
+Global Offensive
+Counter-Strike 2
+Spin-offs
+Neo
+Online
+Nexon: Studio
+Maps
+"Dust II" (de_dust2)
+"Inferno" (de_inferno)
+"Mirage" (de_mirage)
+"Nuke" (de_nuke)
+Related
+Counter-Strike in esports
+match fixing scandal
+Counter-Strike: Malvinas
+Counter-Strike surfing
+Half-Life
+
+vteCounter-Strike in esportsGames
+Counter-Strike
+Condition Zero
+Source
+Online
+Global Offensive
+Counter-Strike 2
+Tournaments
+BLAST Premier
+DreamHack
+ELeague
+ESEA League
+ESL
+ESL Pro League
+Intel Extreme Masters
+Esports World Convention
+FACEIT
+International Esports Federation
+World Electronic Sports Games
+X Games
+Majors
+Jönköping 2013
+Katowice 2014
+Cologne 2014
+Jönköping 2014
+Katowice 2015
+Cologne 2015
+Cluj-Napoca 2015
+Columbus 2016
+Cologne 2016
+Atlanta 2017
+Kraków 2017
+Boston 2018
+London 2018
+Katowice 2019
+Berlin 2019
+Rio 2020 (cancelled)
+Stockholm 2021
+Antwerp 2022
+Rio 2022
+Paris 2023
+Copenhagen 2024
+Shanghai 2024
+Defunct
+BLAST Pro Series
+Championship Gaming Series
+Cyberathlete Professional League
+World Cyber Games
+World e-Sports Games
+World Series of Video Games
+
+Notable teamsEurope
+ALTERNATE aTTaX
+Astralis
+Cloud9
+Dignitas
+ENCE
+FaZe Clan
+Fnatic
+G2 Esports
+Godsent
+Heroic
+MOUZ
+Natus Vincere
+Ninjas in Pyjamas
+OG
+Team SoloMid
+Team Vitality
+Virtus.pro
+Americas
+Complexity Gaming
+Evil Geniuses
+Furia Esports
+Imperial Esports
+MIBR
+Immortals Gaming Club
+NRG Esports
+Team Liquid
+Asia/Oceania
+Eternal Fire
+Renegades
+Vici Gaming
+Defunct
+100 Thieves
+Copenhagen Wolves
+Counter Logic Gaming
+Echo Fox
+Epsilon Esports
+Flipside Tactics
+FunPlus Phoenix
+Gambit Esports
+Gen.G
+LDLC OL
+Luminosity Gaming
+Misfits Gaming
+North
+OpTic Gaming
+Selfless Gaming
+SK Gaming
+Space Soldiers
+Splyce
+Team 3D
+Team Envy
+Tempo Storm
+Titan
+Vega Squadron
+Notable commentators
+Anders Blume
+Paul "Redeye" Chaloner
+Eefje "Sjokz" Depoortere
+Sean "sgares" Gares
+Richard Lewis
+Joe Miller
+
+vteValveGamesHalf-Life
+Half-Life
+Black Mesa Research Facility
+Opposing Force
+Blue Shift
+Decay
+Half-Life 2
+Deathmatch
+Lost Coast
+Episode One
+Episode Two
+Half-Life: Alyx
+Portal
+Portal
+Portal 2
+The Lab
+Aperture Hand Lab
+Aperture Desk Job
+Counter-Strike
+Counter-Strike
+"Dust II"
+"Inferno"
+"Mirage"
+"Nuke"
+Source
+Condition Zero
+Global Offensive
+Counter-Strike 2
+Team Fortress
+Team Fortress Classic
+Team Fortress 2
+"2Fort"
+Left 4 Dead
+Left 4 Dead
+Left 4 Dead 2
+Dota
+Dota 2
+Artifact
+Dota Underlords
+Other games
+Day of Defeat
+Source
+Garry's Mod
+Alien Swarm
+The Crossing
+TechnologyHardware
+Steam Controller
+Steam Deck
+Steam Link
+Steam Machine
+Valve Index
+Software
+GoldSrc
+OpenVR
+Proton
+Source
+Source 2
+Source Filmmaker
+Steam
+SteamOS
+Valve Anti-Cheat
+World Opponent Network
+PeopleCurrent
+Sam Lantinga
+Mike Morasky
+Olly Moss
+Brad Muir
+Gabe Newell
+Jay Pinkerton
+Jake Rodkin
+Sean Vanaman
+Robin Walker
+Erik Wolpaw
+Former
+Michael Abrash
+Mike Ambinder
+Kelly Bailey
+Doug Church
+Jess Cliffe
+Jeri Ellsworth
+Chet Faliszek
+Mike Harrington
+Marc Laidlaw
+Minh Le
+Jane Ng
+Bay Raitt
+Chris Remo
+Kim Swift
+Yanis Varoufakis
+Related
+Campo Santo
+Steam Trading Cards
+The Orange Box
+The Steam Awards
+Unreleased Half-Life games
+
+ Category
+
+Portal: Video games
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Counter-Strike:_Global_Offensive&oldid=1210165264"
+Categories: 2012 video gamesAsymmetrical multiplayer video gamesBattle royale gamesCounter-StrikeEsports gamesFree-to-play video gamesLinux gamesMacOS gamesMultiplayer online gamesMultiplayer video gamesPlayStation 3 gamesPlayStation Network gamesSource (game engine) gamesTactical shooter video gamesValve Corporation gamesVideo game sequelsVideo games about bomb disposalVideo games about police officersVideo games about the Special Air ServiceVideo games about terrorismVideo games about the United States Navy SEALsVideo games developed in the United StatesVideo games scored by Kelly BaileyVideo games scored by Lennie MooreVideo games scored by Mike MoraskyVideo games set in GermanyVideo games set in ItalyVideo games set in the Middle EastVideo games set in the United StatesVideo games using HavokVideo games with Steam Workshop supportWindows gamesXbox 360 Live Arcade gamesThe Game Awards winnersHidden Path Entertainment gamesHidden categories: CS1 errors: generic nameAll articles with dead external linksArticles with dead external links from February 2023Articles with permanently dead external linksCS1 Dutch-language sources (nl)Articles with short descriptionShort description is different from WikidataWikipedia pages semi-protected against vandalismUse mdy dates from September 2023Use American English from July 2017All Wikipedia articles written in American EnglishArticles using Infobox video game using locally defined parametersArticles using Wikidata infoboxes with locally defined imagesArticles using Video game reviews template in single platform modeCommons category link from Wikidata
+
+
+
+
+
+
+ This page was last edited on 25 February 2024, at 08:21 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+
+
+
